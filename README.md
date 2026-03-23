@@ -1,8 +1,8 @@
 # Wearable Smart Multimeter - PDE 1824 - Group Project
 
 ## Overview
-A compact, wearable multimeter using the Raspberry Pi Pico to measure capacitance and one additional parameter (voltage, current, or resistance). Designed for portability, usability, and real-time feedback.
-Firmware written in microPy
+ - A compact, wearable multimeter using the Raspberry Pi Pico to measure capacitance and one additional parameter (voltage, current, or resistance). Designed for portability, usability, and real-time feedback.
+ - Firmware written in microPy
 ---
 
 ## Features
